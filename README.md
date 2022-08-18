@@ -5,7 +5,7 @@ It is made using html, js.
 
 
 Github Repo link : https://github.com/sudoshivesh/notepad/
-Website Link : https://github.com/sudoshivesh/notepad.github.io/
+Website Link : https://sudoshivesh.github.io/notepad/
 
 
 Screenshot of the website : 
